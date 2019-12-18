@@ -105,9 +105,9 @@ Libraries or Frameworks :
 
 #6. Papers  
 ----------
-[Mesh-based Marching Tetrahedra on BCC Datasets](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07299387)
-[Mesh-based Marching Cube](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06749207&language=ko_KR)
-[Mesh-based Marching Cube on GPU](http://journal.cg-korea.org/archive/view_article?pid=jkcgs-24-1-1)
+1) [Mesh-based Marching Tetrahedra on BCC Datasets](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07299387)  
+2) [Mesh-based Marching Cube](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06749207&language=ko_KR)  
+3) [Mesh-based Marching Cube on GPU](http://journal.cg-korea.org/archive/view_article?pid=jkcgs-24-1-1)  
 
 
 
