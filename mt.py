@@ -7,6 +7,8 @@ import pyopencl.array as cl_array
 import scan
 import simpleOBJ as obj
 import volume
+import plotly
+import plotly.graph_objs as go
 
 class MarchingTet:
     def __init__(self, device, ctx, queue) :
@@ -188,7 +190,19 @@ def main() :
     #print("isosurface extraction complete")
     mt.Profile()
 
-    mt.saveAs("./output/"+data[0])
+    if 0 : 
+        mt.saveAs("./output/{0}".format(data[0]))
+    else :
+        vtx = mt.getVertices()
+        idx = mt.getIndices()
+        
+
+        dat_mesh = go.Mesh3d(
+            x = vtx[:,0], y = vtx[:,1], z = vtx[:,2],
+            i = idx[:,0], j = idx[:,1], k = idx[:,2]
+            )
+        fig = go.Figure(data=dat_mesh)
+        plotly.offline.plot(fig, filename="{0}.html".format(data[0]))
     
 if __name__ == "__main__" :    
     os.environ['PYOPENCL_COMPILER_OUTPUT'] = '1'
