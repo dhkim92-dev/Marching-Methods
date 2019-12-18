@@ -1,0 +1,522 @@
+[DEBUG][19/10/04-14:19:18][_create_built_program_from_source_cached:370] build program: binary cache hit (key: ace77634e89612c4ad4f0eb4527fdaf4)
+[DEBUG][19/10/04-14:19:18][_create_built_program_from_source_cached:370] build program: binary cache hit (key: 0ea50ff87cd84e864d9c13a307e35ce1)
+[DEBUG][19/10/04-14:19:18][_create_built_program_from_source_cached:370] build program: binary cache hit (key: 0ea50ff87cd84e864d9c13a307e35ce1)
+[DEBUG][19/10/04-14:19:18][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=f3626a5690ac15917e1bb285e96ee1d00d36071cc4c6fb097f1bb050d680f295]
+[DEBUG][19/10/04-14:19:18][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:18][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:18][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:18][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=ec94352db36fbf29e6fcc8e1c009d77d81261251a4f42b709446f8f4cc72a2da]
+[DEBUG][19/10/04-14:19:18][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:18][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:18][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:18][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=7cc913aaead90043eec28f1f703e1802b4727b3eacd1602e006024b6126c5e96]
+[DEBUG][19/10/04-14:19:18][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=6afae5fef00bd06f38369e6430eafe02360e7e47856766764c42537e204628df]
+[DEBUG][19/10/04-14:19:18][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:18][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:18][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:18][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=ec94352db36fbf29e6fcc8e1c009d77d81261251a4f42b709446f8f4cc72a2da]
+[DEBUG][19/10/04-14:19:18][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:18][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:18][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:18][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=682d526cb55ff0d5341dd2981c31694c9239fc69772429ebcae304f7a85e3b6b]
+[DEBUG][19/10/04-14:19:18][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=6ba7bd78cc33cc8a7552a467ee82a7ef37f1e4f32d9ced558adc465aa3d4575f]
+[DEBUG][19/10/04-14:19:18][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=d06af5159ceca1b49ae34325a8a09db5c7d0d433f62fab235695e3812db12962]
+[DEBUG][19/10/04-14:19:18][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=7f0ab420a11866cbaa92e4e10dd42d8f9f2bd180ba9fad22922a872130a8cb9d]
+[INFO][19/10/04-14:19:18][Profile:150] Performance
+[INFO][19/10/04-14:19:18][Profile:162] 	Total : 59.2163 msec( = 16.8872 FPS)
+
+[INFO][19/10/04-14:19:18][saveAs:138] Save : ./output/dragon
+[DEBUG][19/10/04-14:19:33][_create_built_program_from_source_cached:370] build program: binary cache hit (key: ace77634e89612c4ad4f0eb4527fdaf4)
+[DEBUG][19/10/04-14:19:33][_create_built_program_from_source_cached:370] build program: binary cache hit (key: 0ea50ff87cd84e864d9c13a307e35ce1)
+[DEBUG][19/10/04-14:19:33][_create_built_program_from_source_cached:370] build program: binary cache hit (key: 0ea50ff87cd84e864d9c13a307e35ce1)
+[DEBUG][19/10/04-14:19:33][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=f3626a5690ac15917e1bb285e96ee1d00d36071cc4c6fb097f1bb050d680f295]
+[DEBUG][19/10/04-14:19:33][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:33][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:33][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:33][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=ec94352db36fbf29e6fcc8e1c009d77d81261251a4f42b709446f8f4cc72a2da]
+[DEBUG][19/10/04-14:19:33][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:33][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:33][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:33][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=7cc913aaead90043eec28f1f703e1802b4727b3eacd1602e006024b6126c5e96]
+[DEBUG][19/10/04-14:19:33][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=6afae5fef00bd06f38369e6430eafe02360e7e47856766764c42537e204628df]
+[DEBUG][19/10/04-14:19:33][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:33][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:33][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:33][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=ec94352db36fbf29e6fcc8e1c009d77d81261251a4f42b709446f8f4cc72a2da]
+[DEBUG][19/10/04-14:19:33][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:33][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:33][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:33][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=682d526cb55ff0d5341dd2981c31694c9239fc69772429ebcae304f7a85e3b6b]
+[DEBUG][19/10/04-14:19:33][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=6ba7bd78cc33cc8a7552a467ee82a7ef37f1e4f32d9ced558adc465aa3d4575f]
+[DEBUG][19/10/04-14:19:33][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=d06af5159ceca1b49ae34325a8a09db5c7d0d433f62fab235695e3812db12962]
+[DEBUG][19/10/04-14:19:33][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=7f0ab420a11866cbaa92e4e10dd42d8f9f2bd180ba9fad22922a872130a8cb9d]
+[INFO][19/10/04-14:19:33][Profile:150] Performance
+[INFO][19/10/04-14:19:33][Profile:162] 	Total : 63.0205 msec( = 15.8679 FPS)
+
+[INFO][19/10/04-14:19:33][saveAs:138] Save : ./output/dragon
+[INFO][19/10/04-14:19:33][saveAs:144] 	# of vertices : (481858, 4)
+[INFO][19/10/04-14:19:33][saveAs:145] 	# of indices : (963540, 4)
+[DEBUG][19/10/04-14:19:45][_create_built_program_from_source_cached:370] build program: binary cache hit (key: ace77634e89612c4ad4f0eb4527fdaf4)
+[DEBUG][19/10/04-14:19:45][_create_built_program_from_source_cached:370] build program: binary cache hit (key: 0ea50ff87cd84e864d9c13a307e35ce1)
+[DEBUG][19/10/04-14:19:45][_create_built_program_from_source_cached:370] build program: binary cache hit (key: 0ea50ff87cd84e864d9c13a307e35ce1)
+[DEBUG][19/10/04-14:19:45][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=f3626a5690ac15917e1bb285e96ee1d00d36071cc4c6fb097f1bb050d680f295]
+[DEBUG][19/10/04-14:19:45][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:45][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:45][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:45][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=ec94352db36fbf29e6fcc8e1c009d77d81261251a4f42b709446f8f4cc72a2da]
+[DEBUG][19/10/04-14:19:45][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:45][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:45][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:45][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=7cc913aaead90043eec28f1f703e1802b4727b3eacd1602e006024b6126c5e96]
+[DEBUG][19/10/04-14:19:45][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=6afae5fef00bd06f38369e6430eafe02360e7e47856766764c42537e204628df]
+[DEBUG][19/10/04-14:19:45][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:45][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:45][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=5b259863a895f967531407df7a0b721352550f6b352c9ab9a5e466f930946b9d]
+[DEBUG][19/10/04-14:19:45][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=ec94352db36fbf29e6fcc8e1c009d77d81261251a4f42b709446f8f4cc72a2da]
+[DEBUG][19/10/04-14:19:45][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:45][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:45][fetch:610] pyopencl-invoker-cache-v6: in mem cache hit [key=64586976181f8cb80b34efbc3dd1b7980c5d2b6d2f3a97bb9d762c58ac52a063]
+[DEBUG][19/10/04-14:19:45][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=682d526cb55ff0d5341dd2981c31694c9239fc69772429ebcae304f7a85e3b6b]
+[DEBUG][19/10/04-14:19:46][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=6ba7bd78cc33cc8a7552a467ee82a7ef37f1e4f32d9ced558adc465aa3d4575f]
+[DEBUG][19/10/04-14:19:46][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=d06af5159ceca1b49ae34325a8a09db5c7d0d433f62fab235695e3812db12962]
+[DEBUG][19/10/04-14:19:46][fetch:656] pyopencl-invoker-cache-v6: disk cache hit [key=7f0ab420a11866cbaa92e4e10dd42d8f9f2bd180ba9fad22922a872130a8cb9d]
+[INFO][19/10/04-14:19:46][Profile:150] Performance
+[INFO][19/10/04-14:19:46][Profile:162] 	Total : 62.1486 msec( = 16.0905 FPS)
+
+[INFO][19/10/04-14:19:46][saveAs:138] Save : ./output/dragon
+[INFO][19/10/04-14:19:46][saveAs:144] 	# of vertices : (481858, 4)
+[INFO][19/10/04-14:19:46][saveAs:145] 	# of indices : (963540, 4)
+[INFO][19/10/04-14:20:05][Profile:150] Performance
+[INFO][19/10/04-14:20:05][Profile:162] 	Total : 56.9450 msec( = 17.5608 FPS)
+
+[INFO][19/10/04-14:20:05][saveAs:138] Save : ./output/dragon
+[INFO][19/10/04-14:20:05][saveAs:144] 	# of vertices : (481858, 4)
+[INFO][19/10/04-14:20:05][saveAs:145] 	# of indices : (963540, 4)
+[INFO][19/10/04-14:20:29][Profile:150] Performance
+[INFO][19/10/04-14:20:36][Profile:150] Performance
+[INFO][19/10/04-14:20:36][Profile:159] Cell Test : 28.5768 msec
+[INFO][19/10/04-14:20:36][Profile:159] Edge Test : 29.6670 msec
+[INFO][19/10/04-14:20:36][Profile:159] Vertex Processing : 1.3506 msec
+[INFO][19/10/04-14:20:36][Profile:159] Index Processing : 0.3070 msec
+[INFO][19/10/04-14:20:36][Profile:162] 	Total : 59.9014 msec( = 16.6941 FPS)
+
+[INFO][19/10/04-14:20:36][saveAs:138] Save : ./output/dragon
+[INFO][19/10/04-14:20:36][saveAs:144] 	# of vertices : (481858, 4)
+[INFO][19/10/04-14:20:36][saveAs:145] 	# of indices : (963540, 4)
+[INFO][19/10/04-14:20:54][Profile:149] Performance
+[INFO][19/10/04-14:20:54][Profile:158] Cell Test : 28.4563 msec
+[INFO][19/10/04-14:20:54][Profile:159]   Cell Test : 15.7352 msec
+[INFO][19/10/04-14:20:54][Profile:159]   CellTable Scan : 10.0270 msec
+[INFO][19/10/04-14:20:54][Profile:159]   CellTable Compaction : 2.6917 msec
+[INFO][19/10/04-14:20:54][Profile:159]   Read Index Count : 0.0024 msec
+[INFO][19/10/04-14:20:54][Profile:158] Edge Test : 29.0347 msec
+[INFO][19/10/04-14:20:54][Profile:159]   Edge Test : 14.4258 msec
+[INFO][19/10/04-14:20:54][Profile:159]   EdgeTable Scan : 11.6643 msec
+[INFO][19/10/04-14:20:54][Profile:159]   EdgeTable Compaction : 2.9421 msec
+[INFO][19/10/04-14:20:54][Profile:159]   Read Vertex Count : 0.0026 msec
+[INFO][19/10/04-14:20:54][Profile:158] Vertex Processing : 2.7069 msec
+[INFO][19/10/04-14:20:54][Profile:159]   Vertex Extraction : 2.3813 msec
+[INFO][19/10/04-14:20:54][Profile:159]   Normal Estimation : 0.3256 msec
+[INFO][19/10/04-14:20:54][Profile:158] Index Processing : 0.3077 msec
+[INFO][19/10/04-14:20:54][Profile:159]   Index Generation : 0.3077 msec
+[INFO][19/10/04-14:20:54][Profile:161] 	Total : 60.5056 msec( = 16.5274 FPS)
+
+[INFO][19/10/04-14:20:54][saveAs:138] Save : ./output/dragon
+[INFO][19/10/04-14:20:54][saveAs:144] 	# of vertices : (481858, 4)
+[INFO][19/10/04-14:20:54][saveAs:145] 	# of indices : (963540, 4)
+[INFO][19/10/04-14:21:29][Profile:150] Performance
+[INFO][19/10/04-14:21:29][Profile:159] Cell Test : 28.7379 msec
+[INFO][19/10/04-14:21:29][Profile:160]   Cell Test : 15.9544 msec
+[INFO][19/10/04-14:21:29][Profile:160]   CellTable Scan : 10.0800 msec
+[INFO][19/10/04-14:21:29][Profile:160]   CellTable Compaction : 2.7011 msec
+[INFO][19/10/04-14:21:29][Profile:160]   Read Index Count : 0.0024 msec
+[INFO][19/10/04-14:21:29][Profile:159] Edge Test : 29.0586 msec
+[INFO][19/10/04-14:21:29][Profile:160]   Edge Test : 14.4085 msec
+[INFO][19/10/04-14:21:29][Profile:160]   EdgeTable Scan : 11.6936 msec
+[INFO][19/10/04-14:21:29][Profile:160]   EdgeTable Compaction : 2.9541 msec
+[INFO][19/10/04-14:21:29][Profile:160]   Read Vertex Count : 0.0024 msec
+[INFO][19/10/04-14:21:29][Profile:159] Vertex Processing : 2.7003 msec
+[INFO][19/10/04-14:21:29][Profile:160]   Vertex Extraction : 2.3682 msec
+[INFO][19/10/04-14:21:29][Profile:160]   Normal Estimation : 0.3322 msec
+[INFO][19/10/04-14:21:29][Profile:159] Index Processing : 0.3083 msec
+[INFO][19/10/04-14:21:29][Profile:160]   Index Generation : 0.3083 msec
+[INFO][19/10/04-14:21:29][Profile:162] 	Total : 60.8051 msec( = 16.4460 FPS)
+
+[INFO][19/10/04-14:21:29][saveAs:138] Save
+[INFO][19/10/04-14:21:29][saveAs:139] 	./output/dragon
+[INFO][19/10/04-14:21:29][saveAs:145] 	# of vertices : (481858, 4)
+[INFO][19/10/04-14:21:29][saveAs:146] 	# of indices : (963540, 4)
+[INFO][19/10/04-14:21:39][Profile:150] Performance
+[INFO][19/10/04-14:21:39][Profile:159] Cell Test : 28.9298 msec
+[INFO][19/10/04-14:21:39][Profile:160]   Cell Test : 15.8163 msec
+[INFO][19/10/04-14:21:39][Profile:160]   CellTable Scan : 10.4301 msec
+[INFO][19/10/04-14:21:39][Profile:160]   CellTable Compaction : 2.6808 msec
+[INFO][19/10/04-14:21:39][Profile:160]   Read Index Count : 0.0026 msec
+[INFO][19/10/04-14:21:39][Profile:159] Edge Test : 27.5733 msec
+[INFO][19/10/04-14:21:39][Profile:160]   Edge Test : 12.9088 msec
+[INFO][19/10/04-14:21:39][Profile:160]   EdgeTable Scan : 11.6816 msec
+[INFO][19/10/04-14:21:39][Profile:160]   EdgeTable Compaction : 2.9803 msec
+[INFO][19/10/04-14:21:39][Profile:160]   Read Vertex Count : 0.0026 msec
+[INFO][19/10/04-14:21:39][Profile:159] Vertex Processing : 0.7016 msec
+[INFO][19/10/04-14:21:39][Profile:160]   Vertex Extraction : 0.3022 msec
+[INFO][19/10/04-14:21:39][Profile:160]   Normal Estimation : 0.3994 msec
+[INFO][19/10/04-14:21:39][Profile:159] Index Processing : 0.4579 msec
+[INFO][19/10/04-14:21:39][Profile:160]   Index Generation : 0.4579 msec
+[INFO][19/10/04-14:21:39][Profile:162] 	Total : 57.6626 msec( = 17.3423 FPS)
+
+[INFO][19/10/04-14:21:39][saveAs:138] Fileout
+[INFO][19/10/04-14:21:39][saveAs:139] 	./output/dragon
+[INFO][19/10/04-14:21:39][saveAs:145] 	# of vertices : (481858, 4)
+[INFO][19/10/04-14:21:39][saveAs:146] 	# of indices : (963540, 4)
+[INFO][19/10/04-14:22:21][Profile:150] Performance
+[INFO][19/10/04-14:22:21][Profile:159] Cell Test : 28.6637 msec
+[INFO][19/10/04-14:22:21][Profile:160]   Cell Test : 15.8491 msec
+[INFO][19/10/04-14:22:21][Profile:160]   CellTable Scan : 10.0864 msec
+[INFO][19/10/04-14:22:21][Profile:160]   CellTable Compaction : 2.7258 msec
+[INFO][19/10/04-14:22:21][Profile:160]   Read Index Count : 0.0024 msec
+[INFO][19/10/04-14:22:21][Profile:159] Edge Test : 30.1678 msec
+[INFO][19/10/04-14:22:21][Profile:160]   Edge Test : 15.4747 msec
+[INFO][19/10/04-14:22:21][Profile:160]   EdgeTable Scan : 11.7203 msec
+[INFO][19/10/04-14:22:21][Profile:160]   EdgeTable Compaction : 2.9702 msec
+[INFO][19/10/04-14:22:21][Profile:160]   Read Vertex Count : 0.0026 msec
+[INFO][19/10/04-14:22:21][Profile:159] Vertex Processing : 2.6899 msec
+[INFO][19/10/04-14:22:21][Profile:160]   Vertex Extraction : 2.3594 msec
+[INFO][19/10/04-14:22:21][Profile:160]   Normal Estimation : 0.3306 msec
+[INFO][19/10/04-14:22:21][Profile:159] Index Processing : 0.3342 msec
+[INFO][19/10/04-14:22:21][Profile:160]   Index Generation : 0.3342 msec
+[INFO][19/10/04-14:22:21][Profile:162] 	Total : 61.8557 msec( = 16.1667 FPS)
+
+[INFO][19/10/04-14:22:21][saveAs:138] save
+[INFO][19/10/04-14:22:21][saveAs:139] 	./output/dragon
+[INFO][19/10/04-14:22:21][saveAs:145] 	# of vertices : (481858, 4)
+[INFO][19/10/04-14:22:21][saveAs:146] 	# of indices : (963540, 4)
+[INFO][19/10/04-14:22:37][Profile:150] Performance
+[INFO][19/10/04-14:22:37][Profile:159] Cell Test : 30.2608 msec
+[INFO][19/10/04-14:22:37][Profile:160]   Cell Test : 15.8901 msec
+[INFO][19/10/04-14:22:37][Profile:160]   CellTable Scan : 11.6894 msec
+[INFO][19/10/04-14:22:37][Profile:160]   CellTable Compaction : 2.6790 msec
+[INFO][19/10/04-14:22:37][Profile:160]   Read Index Count : 0.0022 msec
+[INFO][19/10/04-14:22:37][Profile:159] Edge Test : 30.1914 msec
+[INFO][19/10/04-14:22:37][Profile:160]   Edge Test : 15.5424 msec
+[INFO][19/10/04-14:22:37][Profile:160]   EdgeTable Scan : 11.6549 msec
+[INFO][19/10/04-14:22:37][Profile:160]   EdgeTable Compaction : 2.9917 msec
+[INFO][19/10/04-14:22:37][Profile:160]   Read Vertex Count : 0.0024 msec
+[INFO][19/10/04-14:22:37][Profile:159] Vertex Processing : 2.9853 msec
+[INFO][19/10/04-14:22:37][Profile:160]   Vertex Extraction : 2.3475 msec
+[INFO][19/10/04-14:22:37][Profile:160]   Normal Estimation : 0.6378 msec
+[INFO][19/10/04-14:22:37][Profile:159] Index Processing : 0.3094 msec
+[INFO][19/10/04-14:22:37][Profile:160]   Index Generation : 0.3094 msec
+[INFO][19/10/04-14:22:37][Profile:162] 	Total : 63.7469 msec( = 15.6870 FPS)
+
+[INFO][19/10/04-14:22:37][saveAs:138] Save
+[INFO][19/10/04-14:22:37][saveAs:139] 	./output/dragon
+[INFO][19/10/04-14:22:37][saveAs:145] 	# of vertices : (481858, 4)
+[INFO][19/10/04-14:22:37][saveAs:146] 	# of indices : (963540, 4)
+[INFO][19/10/04-14:22:51][Profile:150] Performance
+[INFO][19/10/04-14:22:51][Profile:159] Cell Test : 28.6749 msec
+[INFO][19/10/04-14:22:51][Profile:160]   Cell Test : 15.9402 msec
+[INFO][19/10/04-14:22:51][Profile:160]   CellTable Scan : 10.0422 msec
+[INFO][19/10/04-14:22:51][Profile:160]   CellTable Compaction : 2.6902 msec
+[INFO][19/10/04-14:22:51][Profile:160]   Read Index Count : 0.0022 msec
+[INFO][19/10/04-14:22:51][Profile:159] Edge Test : 29.0094 msec
+[INFO][19/10/04-14:22:51][Profile:160]   Edge Test : 14.4216 msec
+[INFO][19/10/04-14:22:51][Profile:160]   EdgeTable Scan : 11.6624 msec
+[INFO][19/10/04-14:22:51][Profile:160]   EdgeTable Compaction : 2.9230 msec
+[INFO][19/10/04-14:22:51][Profile:160]   Read Vertex Count : 0.0024 msec
+[INFO][19/10/04-14:22:51][Profile:159] Vertex Processing : 2.6666 msec
+[INFO][19/10/04-14:22:51][Profile:160]   Vertex Extraction : 2.3405 msec
+[INFO][19/10/04-14:22:51][Profile:160]   Normal Estimation : 0.3261 msec
+[INFO][19/10/04-14:22:51][Profile:159] Index Processing : 0.3283 msec
+[INFO][19/10/04-14:22:51][Profile:160]   Index Generation : 0.3283 msec
+[INFO][19/10/04-14:22:51][Profile:162] 	Total : 60.6792 msec( = 16.4801 FPS)
+
+[INFO][19/10/04-14:22:51][saveAs:138] Save
+[INFO][19/10/04-14:22:51][saveAs:139] 	./output/dragon
+[INFO][19/10/04-14:22:51][saveAs:145] 	# of vertices : (481858, 4)
+[INFO][19/10/04-14:22:51][saveAs:146] 	# of indices : (963540, 4)
+[INFO][19/10/05-03:46:03][saveAs:138] Save
+[INFO][19/10/05-03:46:03][saveAs:139] 	./output/dragon
+[INFO][19/10/05-03:51:47][Profile:150] Performance
+[INFO][19/10/05-03:51:47][Profile:159] Cell Test : 347.5129 msec
+[INFO][19/10/05-03:51:47][Profile:160]   Cell Test : 186.1927 msec
+[INFO][19/10/05-03:51:47][Profile:160]   CellTable Scan : 126.5447 msec
+[INFO][19/10/05-03:51:47][Profile:160]   CellTable Compaction : 34.7717 msec
+[INFO][19/10/05-03:51:47][Profile:160]   Read Index Count : 0.0038 msec
+[INFO][19/10/05-03:51:47][Profile:159] Edge Test : 317.2346 msec
+[INFO][19/10/05-03:51:47][Profile:160]   Edge Test : 129.1446 msec
+[INFO][19/10/05-03:51:47][Profile:160]   EdgeTable Scan : 150.9206 msec
+[INFO][19/10/05-03:51:47][Profile:160]   EdgeTable Compaction : 37.1658 msec
+[INFO][19/10/05-03:51:47][Profile:160]   Read Vertex Count : 0.0037 msec
+[INFO][19/10/05-03:51:47][Profile:159] Vertex Processing : 4.3438 msec
+[INFO][19/10/05-03:51:47][Profile:160]   Vertex Extraction : 1.6874 msec
+[INFO][19/10/05-03:51:47][Profile:160]   Normal Estimation : 2.6564 msec
+[INFO][19/10/05-03:51:47][Profile:159] Index Processing : 4.0778 msec
+[INFO][19/10/05-03:51:47][Profile:160]   Index Generation : 4.0778 msec
+[INFO][19/10/05-03:51:47][Profile:162] 	Total : 673.1691 msec( = 1.4855 FPS)
+
+[INFO][19/10/05-03:51:47][saveAs:138] Save
+[INFO][19/10/05-03:51:47][saveAs:139] 	./output/dragon
+[INFO][19/10/05-03:51:47][saveAs:145] 	# of vertices : (481858, 4)
+[INFO][19/10/05-03:51:47][saveAs:146] 	# of indices : (963540, 4)
+[INFO][19/10/05-03:53:05][Profile:150] Performance
+[INFO][19/10/05-03:53:05][Profile:159] Cell Test : 300.6650 msec
+[INFO][19/10/05-03:53:05][Profile:160]   Cell Test : 156.9375 msec
+[INFO][19/10/05-03:53:05][Profile:160]   CellTable Scan : 112.1713 msec
+[INFO][19/10/05-03:53:05][Profile:160]   CellTable Compaction : 31.5526 msec
+[INFO][19/10/05-03:53:05][Profile:160]   Read Index Count : 0.0035 msec
+[INFO][19/10/05-03:53:05][Profile:159] Edge Test : 281.7730 msec
+[INFO][19/10/05-03:53:05][Profile:160]   Edge Test : 105.9073 msec
+[INFO][19/10/05-03:53:05][Profile:160]   EdgeTable Scan : 137.1638 msec
+[INFO][19/10/05-03:53:05][Profile:160]   EdgeTable Compaction : 38.6982 msec
+[INFO][19/10/05-03:53:05][Profile:160]   Read Vertex Count : 0.0038 msec
+[INFO][19/10/05-03:53:05][Profile:162] 	Total : 582.4380 msec( = 1.7169 FPS)
+
+[INFO][19/10/05-03:53:05][saveAs:138] Save
+[INFO][19/10/05-03:53:05][saveAs:139] 	./output/dragon
+[INFO][19/10/05-05:08:39][Profile:150] Performance
+[INFO][19/10/05-05:08:39][Profile:159] Cell Test : 346.3844 msec
+[INFO][19/10/05-05:08:39][Profile:160]   Cell Test : 187.3308 msec
+[INFO][19/10/05-05:08:39][Profile:160]   CellTable Scan : 126.5194 msec
+[INFO][19/10/05-05:08:39][Profile:160]   CellTable Compaction : 32.5306 msec
+[INFO][19/10/05-05:08:39][Profile:160]   Read Index Count : 0.0036 msec
+[INFO][19/10/05-05:08:39][Profile:159] Edge Test : 299.2588 msec
+[INFO][19/10/05-05:08:39][Profile:160]   Edge Test : 123.0826 msec
+[INFO][19/10/05-05:08:39][Profile:160]   EdgeTable Scan : 138.6035 msec
+[INFO][19/10/05-05:08:39][Profile:160]   EdgeTable Compaction : 37.5692 msec
+[INFO][19/10/05-05:08:39][Profile:160]   Read Vertex Count : 0.0034 msec
+[INFO][19/10/05-05:08:39][Profile:162] 	Total : 645.6432 msec( = 1.5488 FPS)
+
+[INFO][19/10/05-05:08:39][saveAs:138] Save
+[INFO][19/10/05-05:08:39][saveAs:139] 	./output/dragon
+[INFO][19/10/05-05:09:57][Profile:150] Performance
+[INFO][19/10/05-05:09:57][Profile:159] Cell Test : 306.8956 msec
+[INFO][19/10/05-05:09:57][Profile:160]   Cell Test : 155.7610 msec
+[INFO][19/10/05-05:09:57][Profile:160]   CellTable Scan : 115.6506 msec
+[INFO][19/10/05-05:09:57][Profile:160]   CellTable Compaction : 35.4803 msec
+[INFO][19/10/05-05:09:57][Profile:160]   Read Index Count : 0.0038 msec
+[INFO][19/10/05-05:09:57][Profile:159] Edge Test : 299.6962 msec
+[INFO][19/10/05-05:09:57][Profile:160]   Edge Test : 121.8408 msec
+[INFO][19/10/05-05:09:57][Profile:160]   EdgeTable Scan : 133.6360 msec
+[INFO][19/10/05-05:09:57][Profile:160]   EdgeTable Compaction : 44.2154 msec
+[INFO][19/10/05-05:09:57][Profile:160]   Read Vertex Count : 0.0041 msec
+[INFO][19/10/05-05:09:57][Profile:162] 	Total : 606.5918 msec( = 1.6486 FPS)
+
+[INFO][19/10/05-05:09:57][saveAs:138] Save
+[INFO][19/10/05-05:09:57][saveAs:139] 	./output/dragon
+[INFO][19/10/05-05:10:09][Profile:150] Performance
+[INFO][19/10/05-05:10:09][Profile:159] Cell Test : 301.3162 msec
+[INFO][19/10/05-05:10:09][Profile:160]   Cell Test : 158.7719 msec
+[INFO][19/10/05-05:10:09][Profile:160]   CellTable Scan : 112.3318 msec
+[INFO][19/10/05-05:10:09][Profile:160]   CellTable Compaction : 30.2011 msec
+[INFO][19/10/05-05:10:09][Profile:160]   Read Index Count : 0.0114 msec
+[INFO][19/10/05-05:10:09][Profile:159] Edge Test : 297.8971 msec
+[INFO][19/10/05-05:10:09][Profile:160]   Edge Test : 121.8453 msec
+[INFO][19/10/05-05:10:09][Profile:160]   EdgeTable Scan : 134.4050 msec
+[INFO][19/10/05-05:10:09][Profile:160]   EdgeTable Compaction : 41.6432 msec
+[INFO][19/10/05-05:10:09][Profile:160]   Read Vertex Count : 0.0036 msec
+[INFO][19/10/05-05:10:09][Profile:162] 	Total : 599.2134 msec( = 1.6689 FPS)
+
+[INFO][19/10/05-05:10:09][saveAs:138] Save
+[INFO][19/10/05-05:10:09][saveAs:139] 	./output/dragon
+[INFO][19/10/05-05:12:29][Profile:151] Performance
+[INFO][19/10/05-05:12:29][Profile:160] Cell Test : 306.5309 msec
+[INFO][19/10/05-05:12:29][Profile:161]   Cell Test : 157.7307 msec
+[INFO][19/10/05-05:12:29][Profile:161]   CellTable Scan : 113.5753 msec
+[INFO][19/10/05-05:12:29][Profile:161]   CellTable Compaction : 35.2211 msec
+[INFO][19/10/05-05:12:29][Profile:161]   Read Index Count : 0.0038 msec
+[INFO][19/10/05-05:12:29][Profile:160] Edge Test : 305.6391 msec
+[INFO][19/10/05-05:12:29][Profile:161]   Edge Test : 127.3376 msec
+[INFO][19/10/05-05:12:29][Profile:161]   EdgeTable Scan : 141.1410 msec
+[INFO][19/10/05-05:12:29][Profile:161]   EdgeTable Compaction : 37.1570 msec
+[INFO][19/10/05-05:12:29][Profile:161]   Read Vertex Count : 0.0035 msec
+[INFO][19/10/05-05:12:29][Profile:163] 	Total : 612.1700 msec( = 1.6335 FPS)
+
+[INFO][19/10/05-05:12:29][saveAs:138] Save
+[INFO][19/10/05-05:12:29][saveAs:139] 	./output/dragon
+[INFO][19/10/05-05:14:12][Profile:152] Performance
+[INFO][19/10/05-05:14:12][Profile:161] Cell Test : 306.4668 msec
+[INFO][19/10/05-05:14:12][Profile:162]   Cell Test : 174.0529 msec
+[INFO][19/10/05-05:14:12][Profile:162]   CellTable Scan : 106.1570 msec
+[INFO][19/10/05-05:14:12][Profile:162]   CellTable Compaction : 26.2454 msec
+[INFO][19/10/05-05:14:12][Profile:162]   Read Index Count : 0.0115 msec
+[INFO][19/10/05-05:14:12][Profile:161] Edge Test : 339.5642 msec
+[INFO][19/10/05-05:14:12][Profile:162]   Edge Test : 137.9160 msec
+[INFO][19/10/05-05:14:12][Profile:162]   EdgeTable Scan : 165.0956 msec
+[INFO][19/10/05-05:14:12][Profile:162]   EdgeTable Compaction : 36.5489 msec
+[INFO][19/10/05-05:14:12][Profile:162]   Read Vertex Count : 0.0037 msec
+[INFO][19/10/05-05:14:12][Profile:164] 	Total : 646.0310 msec( = 1.5479 FPS)
+
+[INFO][19/10/05-05:14:12][saveAs:139] Save
+[INFO][19/10/05-05:14:12][saveAs:140] 	./output/dragon
+[INFO][19/10/05-05:18:09][Profile:152] Performance
+[INFO][19/10/05-05:18:09][Profile:161] Cell Test : 312.0968 msec
+[INFO][19/10/05-05:18:09][Profile:162]   Cell Test : 175.6427 msec
+[INFO][19/10/05-05:18:09][Profile:162]   CellTable Scan : 109.9615 msec
+[INFO][19/10/05-05:18:09][Profile:162]   CellTable Compaction : 26.4894 msec
+[INFO][19/10/05-05:18:09][Profile:162]   Read Index Count : 0.0031 msec
+[INFO][19/10/05-05:18:09][Profile:161] Edge Test : 274.4762 msec
+[INFO][19/10/05-05:18:09][Profile:162]   Edge Test : 105.8507 msec
+[INFO][19/10/05-05:18:09][Profile:162]   EdgeTable Scan : 133.2286 msec
+[INFO][19/10/05-05:18:09][Profile:162]   EdgeTable Compaction : 35.3938 msec
+[INFO][19/10/05-05:18:09][Profile:162]   Read Vertex Count : 0.0031 msec
+[INFO][19/10/05-05:18:09][Profile:164] 	Total : 586.5730 msec( = 1.7048 FPS)
+
+[INFO][19/10/05-05:18:09][saveAs:139] Save
+[INFO][19/10/05-05:18:09][saveAs:140] 	./output/dragon
+[INFO][19/10/05-05:18:30][Profile:153] Performance
+[INFO][19/10/05-05:18:30][Profile:162] Cell Test : 320.9226 msec
+[INFO][19/10/05-05:18:30][Profile:163]   Cell Test : 176.9852 msec
+[INFO][19/10/05-05:18:30][Profile:163]   CellTable Scan : 115.4993 msec
+[INFO][19/10/05-05:18:30][Profile:163]   CellTable Compaction : 28.4347 msec
+[INFO][19/10/05-05:18:30][Profile:163]   Read Index Count : 0.0034 msec
+[INFO][19/10/05-05:18:30][Profile:162] Edge Test : 276.5774 msec
+[INFO][19/10/05-05:18:30][Profile:163]   Edge Test : 110.0425 msec
+[INFO][19/10/05-05:18:30][Profile:163]   EdgeTable Scan : 135.5510 msec
+[INFO][19/10/05-05:18:30][Profile:163]   EdgeTable Compaction : 30.9742 msec
+[INFO][19/10/05-05:18:30][Profile:163]   Read Vertex Count : 0.0098 msec
+[INFO][19/10/05-05:18:30][Profile:165] 	Total : 597.5000 msec( = 1.6736 FPS)
+
+[INFO][19/10/05-05:18:30][saveAs:140] Save
+[INFO][19/10/05-05:18:30][saveAs:141] 	./output/dragon
+[INFO][19/10/05-05:18:35][Profile:153] Performance
+[INFO][19/10/05-05:18:35][Profile:162] Cell Test : 286.8982 msec
+[INFO][19/10/05-05:18:35][Profile:163]   Cell Test : 152.0026 msec
+[INFO][19/10/05-05:18:35][Profile:163]   CellTable Scan : 107.2904 msec
+[INFO][19/10/05-05:18:35][Profile:163]   CellTable Compaction : 27.6022 msec
+[INFO][19/10/05-05:18:35][Profile:163]   Read Index Count : 0.0030 msec
+[INFO][19/10/05-05:18:35][Profile:162] Edge Test : 272.3768 msec
+[INFO][19/10/05-05:18:35][Profile:163]   Edge Test : 106.2122 msec
+[INFO][19/10/05-05:18:35][Profile:163]   EdgeTable Scan : 131.2091 msec
+[INFO][19/10/05-05:18:35][Profile:163]   EdgeTable Compaction : 34.9525 msec
+[INFO][19/10/05-05:18:35][Profile:163]   Read Vertex Count : 0.0030 msec
+[INFO][19/10/05-05:18:35][Profile:165] 	Total : 559.2750 msec( = 1.7880 FPS)
+
+[INFO][19/10/05-05:18:35][saveAs:140] Save
+[INFO][19/10/05-05:18:35][saveAs:141] 	./output/dragon
+[INFO][19/10/05-05:26:25][Profile:151] Performance
+[INFO][19/10/05-05:26:25][Profile:160] Cell Test : 324.3229 msec
+[INFO][19/10/05-05:26:25][Profile:161]   Cell Test : 168.2104 msec
+[INFO][19/10/05-05:26:25][Profile:161]   CellTable Scan : 121.2365 msec
+[INFO][19/10/05-05:26:25][Profile:161]   CellTable Compaction : 34.8721 msec
+[INFO][19/10/05-05:26:25][Profile:161]   Read Index Count : 0.0039 msec
+[INFO][19/10/05-05:26:25][Profile:160] Edge Test- : 280.4425 msec
+[INFO][19/10/05-05:26:25][Profile:161]   Edge Test : 109.8825 msec
+[INFO][19/10/05-05:26:25][Profile:161]   EdgeTable Scan : 134.6194 msec
+[INFO][19/10/05-05:26:25][Profile:161]   EdgeTable Compaction : 35.9378 msec
+[INFO][19/10/05-05:26:25][Profile:161]   Read Vertex Count : 0.0028 msec
+[INFO][19/10/05-05:26:25][Profile:163] 	Total : 604.7654 msec( = 1.6535 FPS)
+
+[INFO][19/10/05-05:26:25][saveAs:138] Save
+[INFO][19/10/05-05:26:25][saveAs:139] 	./output/dragon
+[INFO][19/10/05-05:27:46][Profile:152] Performance
+[INFO][19/10/05-05:27:46][Profile:161] Cell Test : 322.2357 msec
+[INFO][19/10/05-05:27:46][Profile:162]   Cell Test : 177.3759 msec
+[INFO][19/10/05-05:27:46][Profile:162]   CellTable Scan : 115.0899 msec
+[INFO][19/10/05-05:27:46][Profile:162]   CellTable Compaction : 29.7666 msec
+[INFO][19/10/05-05:27:46][Profile:162]   Read Index Count : 0.0033 msec
+[INFO][19/10/05-05:27:46][Profile:161] Edge Test- : 280.5215 msec
+[INFO][19/10/05-05:27:46][Profile:162]   Edge Test : 111.2674 msec
+[INFO][19/10/05-05:27:46][Profile:162]   EdgeTable Scan : 134.0604 msec
+[INFO][19/10/05-05:27:46][Profile:162]   EdgeTable Compaction : 35.1908 msec
+[INFO][19/10/05-05:27:46][Profile:162]   Read Vertex Count : 0.0029 msec
+[INFO][19/10/05-05:27:46][Profile:164] 	Total : 602.7572 msec( = 1.6590 FPS)
+
+[INFO][19/10/05-05:27:46][saveAs:138] Save
+[INFO][19/10/05-05:27:46][saveAs:139] 	./output/dragon
+[INFO][19/10/05-05:28:14][Profile:154] Performance
+[INFO][19/10/05-05:28:14][Profile:163] Cell Test : 325.7719 msec
+[INFO][19/10/05-05:28:14][Profile:164]   Cell Test : 173.0543 msec
+[INFO][19/10/05-05:28:14][Profile:164]   CellTable Scan : 121.4463 msec
+[INFO][19/10/05-05:28:14][Profile:164]   CellTable Compaction : 31.2679 msec
+[INFO][19/10/05-05:28:14][Profile:164]   Read Index Count : 0.0034 msec
+[INFO][19/10/05-05:28:14][Profile:163] Edge Test- : 272.0788 msec
+[INFO][19/10/05-05:28:14][Profile:164]   Edge Test : 107.9942 msec
+[INFO][19/10/05-05:28:14][Profile:164]   EdgeTable Scan : 129.1090 msec
+[INFO][19/10/05-05:28:14][Profile:164]   EdgeTable Compaction : 34.9725 msec
+[INFO][19/10/05-05:28:14][Profile:164]   Read Vertex Count : 0.0032 msec
+[INFO][19/10/05-05:28:14][Profile:166] 	Total : 597.8507 msec( = 1.6727 FPS)
+
+[INFO][19/10/05-05:28:14][saveAs:138] Save
+[INFO][19/10/05-05:28:14][saveAs:139] 	./output/dragon
+[INFO][19/10/05-05:37:04][Profile:151] Performance
+[INFO][19/10/05-05:37:04][Profile:160] Cell Test : 331.1142 msec
+[INFO][19/10/05-05:37:04][Profile:161]   Cell Test : 173.4215 msec
+[INFO][19/10/05-05:37:04][Profile:161]   CellTable Scan : 123.9510 msec
+[INFO][19/10/05-05:37:04][Profile:161]   CellTable Compaction : 33.7378 msec
+[INFO][19/10/05-05:37:04][Profile:161]   Read Index Count : 0.0038 msec
+[INFO][19/10/05-05:37:04][Profile:160] Edge Test- : 289.2042 msec
+[INFO][19/10/05-05:37:04][Profile:161]   Edge Test : 110.6894 msec
+[INFO][19/10/05-05:37:04][Profile:161]   EdgeTable Scan : 136.7084 msec
+[INFO][19/10/05-05:37:04][Profile:161]   EdgeTable Compaction : 41.8024 msec
+[INFO][19/10/05-05:37:04][Profile:161]   Read Vertex Count : 0.0039 msec
+[INFO][19/10/05-05:37:04][Profile:163] 	Total : 620.3183 msec( = 1.6121 FPS)
+
+[INFO][19/10/05-05:37:04][saveAs:138] Save
+[INFO][19/10/05-05:37:04][saveAs:139] 	./output/dragon
+[INFO][19/10/05-05:37:49][Profile:152] Performance
+[INFO][19/10/05-05:37:49][Profile:161] Cell Test : 291.2736 msec
+[INFO][19/10/05-05:37:49][Profile:162]   Cell Test : 154.1169 msec
+[INFO][19/10/05-05:37:49][Profile:162]   CellTable Scan : 109.5191 msec
+[INFO][19/10/05-05:37:49][Profile:162]   CellTable Compaction : 27.6346 msec
+[INFO][19/10/05-05:37:49][Profile:162]   Read Index Count : 0.0030 msec
+[INFO][19/10/05-05:37:49][Profile:161] Edge Test- : 298.0273 msec
+[INFO][19/10/05-05:37:49][Profile:162]   Edge Test : 122.2332 msec
+[INFO][19/10/05-05:37:49][Profile:162]   EdgeTable Scan : 138.3050 msec
+[INFO][19/10/05-05:37:49][Profile:162]   EdgeTable Compaction : 37.4849 msec
+[INFO][19/10/05-05:37:49][Profile:162]   Read Vertex Count : 0.0042 msec
+[INFO][19/10/05-05:37:49][Profile:164] 	Total : 589.3009 msec( = 1.6969 FPS)
+
+[INFO][19/10/05-05:37:49][saveAs:139] Save
+[INFO][19/10/05-05:37:49][saveAs:140] 	./output/dragon
+[INFO][19/10/05-05:40:08][Profile:152] Performance
+[INFO][19/10/05-05:40:08][Profile:161] Cell Test : 324.9830 msec
+[INFO][19/10/05-05:40:08][Profile:162]   Cell Test : 167.8883 msec
+[INFO][19/10/05-05:40:08][Profile:162]   CellTable Scan : 121.6997 msec
+[INFO][19/10/05-05:40:08][Profile:162]   CellTable Compaction : 35.3912 msec
+[INFO][19/10/05-05:40:08][Profile:162]   Read Index Count : 0.0038 msec
+[INFO][19/10/05-05:40:08][Profile:161] Edge Test- : 305.2037 msec
+[INFO][19/10/05-05:40:08][Profile:162]   Edge Test : 122.1527 msec
+[INFO][19/10/05-05:40:08][Profile:162]   EdgeTable Scan : 145.0708 msec
+[INFO][19/10/05-05:40:08][Profile:162]   EdgeTable Compaction : 37.9767 msec
+[INFO][19/10/05-05:40:08][Profile:162]   Read Vertex Count : 0.0034 msec
+[INFO][19/10/05-05:40:08][Profile:164] 	Total : 630.1867 msec( = 1.5868 FPS)
+
+[INFO][19/10/05-05:40:08][saveAs:139] Save
+[INFO][19/10/05-05:40:08][saveAs:140] 	./output/dragon
+[INFO][19/12/18-16:31:53][Profile:151] Performance
+[INFO][19/12/18-16:31:53][Profile:160] Cell Test : 5.7688 msec
+[INFO][19/12/18-16:31:53][Profile:161]   Cell Test : 2.5322 msec
+[INFO][19/12/18-16:31:53][Profile:161]   CellTable Scan : 2.4183 msec
+[INFO][19/12/18-16:31:53][Profile:161]   CellTable Compaction : 0.8114 msec
+[INFO][19/12/18-16:31:53][Profile:161]   Read Index Count : 0.0069 msec
+[INFO][19/12/18-16:31:53][Profile:160] Edge Test- : 5.2882 msec
+[INFO][19/12/18-16:31:53][Profile:161]   Edge Test : 1.5618 msec
+[INFO][19/12/18-16:31:53][Profile:161]   EdgeTable Scan : 2.7716 msec
+[INFO][19/12/18-16:31:53][Profile:161]   EdgeTable Compaction : 0.9485 msec
+[INFO][19/12/18-16:31:53][Profile:161]   Read Vertex Count : 0.0063 msec
+[INFO][19/12/18-16:31:53][Profile:163] 	Total : 11.0570 msec( = 90.4408 FPS)
+
+[INFO][19/12/18-16:31:53][saveAs:138] Save
+[INFO][19/12/18-16:31:53][saveAs:139] 	./output/dragon
+[INFO][19/12/18-16:51:53][Profile:148] Performance
+[INFO][19/12/18-16:51:53][Profile:157] Cell Test : 5.7366 msec
+[INFO][19/12/18-16:51:53][Profile:158]   Cell Test : 2.4068 msec
+[INFO][19/12/18-16:51:53][Profile:158]   CellTable Scan : 2.4510 msec
+[INFO][19/12/18-16:51:53][Profile:158]   CellTable Compaction : 0.8726 msec
+[INFO][19/12/18-16:51:53][Profile:158]   Read Index Count : 0.0062 msec
+[INFO][19/12/18-16:51:53][Profile:157] Edge Test : 5.9707 msec
+[INFO][19/12/18-16:51:53][Profile:158]   Edge Test : 2.3399 msec
+[INFO][19/12/18-16:51:53][Profile:158]   EdgeTable Scan : 2.6767 msec
+[INFO][19/12/18-16:51:53][Profile:158]   EdgeTable Compaction : 0.9478 msec
+[INFO][19/12/18-16:51:53][Profile:158]   Read Vertex Count : 0.0062 msec
+[INFO][19/12/18-16:51:53][Profile:157] Vertex Processing : 0.3513 msec
+[INFO][19/12/18-16:51:53][Profile:158]   Vertex Extraction : 0.1234 msec
+[INFO][19/12/18-16:51:53][Profile:158]   Normal Estimation : 0.2278 msec
+[INFO][19/12/18-16:51:53][Profile:157] Index Processing : 0.3906 msec
+[INFO][19/12/18-16:51:53][Profile:158]   Index Generation : 0.3906 msec
+[INFO][19/12/18-16:51:53][Profile:160] 	Total : 12.4493 msec( = 80.3259 FPS)
+
+[INFO][19/12/18-16:51:53][saveAs:136] Save
+[INFO][19/12/18-16:51:53][saveAs:137] 	./output/dragon_vrip
+[INFO][19/12/18-16:51:53][saveAs:143] 	# of vertices : (28058, 4)
+[INFO][19/12/18-16:51:53][saveAs:144] 	# of indices : (56052, 4)
