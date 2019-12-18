@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Marching Tetrahera for GPGPU
 ============================
 #1. 마칭 기법에 대하여
@@ -77,22 +76,22 @@ Marching Tetrahera for GPGPU
 #4. 결과물
 ----------
 *퐁 쉐이딩*
-![phong shading](https://github.com/elensar92/Marching-Methods/blob/master/MarchingTetrahedra_GPU/output/PhongShading.jpg?raw=true)
+![phong shading](https://github.com/elensar92/Marching-Methods/blob/master/output/PhongShading.jpg)
 
 *실루엣 렌더링*
-![Silhouette](https://github.com/elensar92/Marching-Methods/blob/master/MarchingTetrahedra_GPU/output/SilhouetteRendering.jpg)
+![Silhouette](https://github.com/elensar92/Marching-Methods/blob/master/output/SilhouetteRendering.jpg)
 
 *KMax*
-![Kmax](https://github.com/elensar92/Marching-Methods/blob/master/MarchingTetrahedra_GPU/output/dragon-kmax.PNG?raw=true)
+![Kmax](https://github.com/elensar92/Marching-Methods/blob/master/output/dragon-kmax.PNG)
 
 *가우시안 커버쳐*
-![Gaussian Curvature](https://github.com/elensar92/Marching-Methods/blob/master/MarchingTetrahedra_GPU/output/GaussianCurvature.jpg)
+![Gaussian Curvature](https://github.com/elensar92/Marching-Methods/blob/master/output/GaussianCurvature.jpg)
 
 #5. Enviroment
 --------------
 OS : Apple MAC, Linux,(not tested on Windows)
 Language : Python, OpenCL
-Libraries or Frameworks : Numpy, PyOpenCL, etc
+Libraries or Frameworks : Numpy, PyOpenCL, Plotly, CProfile etc
 
 #6. Papers
 =======
