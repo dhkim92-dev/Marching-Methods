@@ -6,7 +6,7 @@ import pyopencl as cl
 import pyopencl.array as cl_array
 import scan
 import simpleOBJ as obj
-import volume
+#import volume
 import plotly
 import plotly.graph_objs as go
 
@@ -15,11 +15,11 @@ class MarchingTet:
         self.ctx = ctx 
         self.queue = queue
         with open('kernel/mt.cl', 'r') as fp : src = fp.read()
-        if "NVIDIA" == device.get_info(cl.device_info.VENDOR)[:6] :
-            self.prg = cl.Program(self.ctx, src).build(options=["-cl-nv-verbose"], devices=[device,])
-            print(self.prg.get_build_info(device=device, param=cl.program_build_info.LOG))
-        else :
-            self.prg = cl.Program(self.ctx, src).build(devices=[device,])
+        #if "NVIDIA" == device.get_info(cl.device_info.VENDOR)[:6] :
+        #    self.prg = cl.Program(self.ctx, src).build(options=["-cl-nv-verbose"], devices=[device,])
+        #    print(self.prg.get_build_info(device=device, param=cl.program_build_info.LOG))
+        #else :
+        self.prg = cl.Program(self.ctx, src).build(devices=[device,])
         
         self.cscan = scan.Scan(self.ctx, self.queue)
         self.escan = scan.Scan(self.ctx, self.queue)
@@ -207,12 +207,12 @@ def main() :
 if __name__ == "__main__" :    
     os.environ['PYOPENCL_COMPILER_OUTPUT'] = '1'
 
-    fmt = Log.Formatter(fmt='[%(levelname)s][%(asctime)s][%(funcName)s:%(lineno)d] %(message)s', datefmt='%y/%m/%d-%H:%M:%S')
-    hStream = Log.StreamHandler()
-    hStream.setFormatter(fmt)
-    hFile = Log.FileHandler('./output/basisRefinement.log')
-    hFile.setFormatter(fmt)
-    Log.basicConfig(format=fmt, level=Log.INFO, handlers=[hFile, hStream])
-    #cp.run('main()')
-    main()
+    #fmt = Log.Formatter(fmt='[%(levelname)s][%(asctime)s][%(funcName)s:%(lineno)d] %(message)s', datefmt='%y/%m/%d-%H:%M:%S')
+    #hStream = Log.StreamHandler()
+    #hStream.setFormatter(fmt)
+    #hFile = Log.FileHandler('./output/basisRefinement.log')
+    #hFile.setFormatter(fmt)
+    #Log.basicConfig(format=fmt, level=Log.INFO, handlers=[hFile, hStream])
+    cp.run('main()')
+    #main()
 
